@@ -20,3 +20,21 @@
           <li><a href="">Blocking</a></li>
           <li><a href="">Anti-Airing</a></li>
         </ul>
+  <aside>
+ <h3>Resources</h3>
+        <ul>
+          <li><a href="https://youtu.be/96MKkqOlpKs">Basic Components of Footsies</a></li>
+          <li><a href="https://glossary.infil.net">The Fighting Game Glossary</a></li>
+        </ul>  
+        <h3>Residence</h3>
+      
+          <li><a href="">Bellevue</a></li>
+  <h3>Contact</h3>
+        <ul>
+            <li><a href="mailto:simo.mordi@gmail.com">simo.mordi@gm</a></li>
+        </ul>
+      </aside>
+    </main>
+    <footer>
+      Get in Touch
+    </footer>
