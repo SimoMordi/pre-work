@@ -1,40 +1,51 @@
-<!DOCTYPE html>
+
+  <!DOCTYPE html>
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <header>
-      <!-- Add your header content here -->
-      <h1>Learn to Play Fighting Games</h1>
-    </header>
-    <main>
-      <!-- Add your main content here -->
-      <nav>
-        <h3>Fighting Game Fundamentals</h3>
-        <ul>
-          <li><a href="">Poking</a></li>
-          <li><a href="">Movement</a></li>
-          <li><a href="">Spacing</a></li>
-          <li><a href="">Punishing</a></li>
-          <li><a href="">Blocking</a></li>
-          <li><a href="">Anti-Airing</a></li>
-        </ul>
-  <aside>
- <h3>Resources</h3>
-        <ul>
-          <li><a href="https://youtu.be/96MKkqOlpKs">Basic Components of Footsies</a></li>
-          <li><a href="https://glossary.infil.net">The Fighting Game Glossary</a></li>
-        </ul>  
-        <h3>Residence</h3>
-      
-          <li><a href="">Bellevue</a></li>
-  <h3>Contact</h3>
+    <div class="container">
+      <header>
+        <!-- Add your header content here -->
+        Holy Grail Layout
+      </header>
+      <main>
+        <!-- Add your main content here -->
+        <div class="content">
+          <main>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+            </p>
+            
+          </main>
+          <aside class="aside">
+            <ul>
+              <li>Aside 1</li>
+              <li>Aside 2</li>
+              <li>Aside 3</li>
+    <h3>Contact</h3>
         <ul>
             <li><a href="mailto:simo.mordi@gmail.com">simo.mordi@gm</a></li>
         </ul>
-      </aside>
-    </main>
-    <footer>
-      Get in Touch
-    </footer>
+            </ul>
+          </aside>
+          <nav class="nav">
+            <ul>
+              <li>Nav 1</li>
+              <li>Nav 2</li>
+              <li>Nav 3</li>
+            </ul>
+          </nav>
+        </div>
+      </main>
+      <footer>
+        <!-- Add your footer content here -->
+        Footer
+      </footer>
+    </div>
+  </body>
+
+</html>
+
+  
+      
