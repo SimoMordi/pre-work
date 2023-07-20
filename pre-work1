@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <!-- Add your header content here -->
+      <h1>Learn to Play Fighting Games</h1>
+    </header>
+    <main>
+      <!-- Add your main content here -->
+      <nav>
+        <h3>Fighting Game Fundamentals</h3>
+        <ul>
+          <li><a href="">Poking</a></li>
+          <li><a href="">Movement</a></li>
+          <li><a href="">Spacing</a></li>
+          <li><a href="">Punishing</a></li>
+          <li><a href="">Blocking</a></li>
+          <li><a href="">Anti-Airing</a></li>
+        </ul>
