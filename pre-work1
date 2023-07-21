@@ -8,22 +8,38 @@
     <div class="container">
       <header>
         <!-- Add your header content here -->
-        Holy Grail Layout
+        Simo Mordi
       </header>
       <main>
         <!-- Add your main content here -->
         <div class="content">
           <main>
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-            </p>
-            
+             <h3>Hi there </h3>
+      <p>Welcome to my Website, I wanted to introduce myself. My name is Simo pronounced as Seemo. I'm looking forward to meet and leaarnwith all of you. I'm a huge fan of the Pacific Northwest and I live in Bellevue. I'm a bit shy at first, but once I get comfortable, I have an outgoing personality. Iam very excited about this software engineering course and can't wait to learn and grow alongside all of you.
+      </p>
           </main>
           <aside class="aside">
             <ul>
-              <li>Aside 1</li>
-              <li>Aside 2</li>
-              <li>Aside 3</li>
-    <h3>Contact</h3>
+               <h3>Some of My favorite things:</h3>
+              <ul>
+                  <li> Outdoors:
+                      <ul>
+                  <li> Hiking</li>
+                  <li> Kayaking </li>
+                      </ul>
+                  </li>
+          <li> Sports:
+              <ul>
+                  <li> Tennis</li>
+                  <li> Soccer </li>
+              </ul>
+          </li>
+            <li> Reading </li>
+            <li> Movies </li>
+        
+          </ul>
+        
+        </ul>
         <ul>
             <li><a href="mailto:simo.mordi@gmail.com">simo.mordi@gm</a></li>
         </ul>
@@ -39,8 +55,9 @@
         </div>
       </main>
       <footer>
-        <!-- Add your footer content here -->
-        Footer
+        <h2>
+        Get in Touch
+      </h2>
       </footer>
     </div>
   </body>
